@@ -31,7 +31,4 @@ Tools and Technologies
 - Data visualization using Excel
 This project helped me improve my practical skills in Microsoft Excel and understand how data analysis can be used to identify sales trends and customer behavior.
 
-## 👩‍💻 Author
-Mahalakshmi
 
-**Career Interests:** Data Analytics | Python Development
